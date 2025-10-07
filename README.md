@@ -2,6 +2,9 @@
 
 A dynamic oxygen management system for Unity that tracks player oxygen levels with visual feedback and safe zone mechanics.
 
+## Includes 
+First-Person-Character-Controller-3D for test purposes -> https://github.com/AKAu101/First-Person-Character-Controller-3D
+
 ## Features
 
 - **Oxygen Depletion**: Oxygen gradually depletes over time when the player is outside safe zones
