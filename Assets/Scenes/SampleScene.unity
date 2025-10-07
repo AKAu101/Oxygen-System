@@ -732,12 +732,12 @@ MonoBehaviour:
   walkSpeed: 5
   sprintSpeed: 8
   jumpHeight: 2
-  gravity: -19.62
+  gravity: -18
   mouseSensitivity: 0.1
   maxLookAngle: 80
   cameraTransform: {fileID: 330585546}
   groundCheck: {fileID: 1611764005}
-  groundDistance: 0.5
+  groundDistance: 0.2
   groundMask:
     serializedVersion: 2
     m_Bits: 8
